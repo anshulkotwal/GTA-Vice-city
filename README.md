@@ -6,7 +6,7 @@ A visually engaging **landing page** inspired by the aesthetics of *GTA Vice Cit
 
 ## 🚀 Demo
 
-🔗 [[Live Preview Link (Add your link here)](https://your-demo-link.com)](https://github.com/anshulkotwal/GTA-Vice-city)
+🔗[Repository](https://github.com/anshulkotwal/GTA-Vice-city)
 
 ---![{05EE40B9-B342-42D8-A5D5-D9DF0AEC17ED}](https://github.com/user-attachments/assets/bddbd161-17b9-4d5e-aebc-966435dd127c)
 ![{315AA89B-C78F-463A-84F4-D73CFD9F6AB5}](https://github.com/user-attachments/assets/33afb8db-c925-4a7d-a4b6-9863f088f353)
