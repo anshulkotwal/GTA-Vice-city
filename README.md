@@ -68,7 +68,7 @@ npm start
 ```
 
 🤝 Connect with Me
-🌐 [{linkedin}]https://www.linkedin.com/in/anshul-kotwal/
+🌐 [linkedin]https://www.linkedin.com/in/anshul-kotwal/
 
 📫 anshulkotwal@example.com
 
